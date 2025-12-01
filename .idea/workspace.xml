@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15e632ff-8e97-4030-99f0-c0814c9a8ccf" name="Changes" comment="Se realizo el proyecto en el archivo Draft-Analysis.ipynb y se adjuntaron los archivos draft_2025.csv y stats.csv que fueron manipulados con pandas para poder realizar el analisis de datos.">
-      <change afterPath="$PROJECT_DIR$/Altair-Knn-Alternativo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Altair-Knn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resultado-Alternativo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resultado-Original.png" afterDir="false" />
+    <list default="true" id="15e632ff-8e97-4030-99f0-c0814c9a8ccf" name="Changes" comment="Fotos de resultados y modelo alternativo agregado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Draft-Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Draft-Analysis.ipynb" afterDir="false" />
     </list>
@@ -83,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1764462780785</updated>
       <workItem from="1764462781818" duration="1759000" />
-      <workItem from="1764545851357" duration="3890000" />
+      <workItem from="1764545851357" duration="7724000" />
     </task>
     <task id="LOCAL-00001" summary="Se realizo el proyecto en el archivo Draft-Analysis.ipynb y se adjuntaron los archivos draft_2025.csv y stats.csv que fueron manipulados con pandas para poder realizar el analisis de datos.">
       <option name="closed" value="true" />
@@ -93,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764463584217</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fotos de resultados y modelo alternativo agregado">
+      <option name="closed" value="true" />
+      <created>1764554405341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764554405341</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Se realizo el proyecto en el archivo Draft-Analysis.ipynb y se adjuntaron los archivos draft_2025.csv y stats.csv que fueron manipulados con pandas para poder realizar el analisis de datos." />
-    <option name="LAST_COMMIT_MESSAGE" value="Se realizo el proyecto en el archivo Draft-Analysis.ipynb y se adjuntaron los archivos draft_2025.csv y stats.csv que fueron manipulados con pandas para poder realizar el analisis de datos." />
+    <MESSAGE value="Fotos de resultados y modelo alternativo agregado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fotos de resultados y modelo alternativo agregado" />
   </component>
 </project>
